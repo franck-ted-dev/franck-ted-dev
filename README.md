@@ -1,88 +1,127 @@
 # Hi, I'm Franck 👋
 
-I'm a Computer Science student (B.Sc.) at the Technical University of Dortmund, currently in my third semester.
+I'm a Computer Science student (B.Sc.) at TU Dortmund with a strong interest in backend software engineering.
 
-My main interests are backend software development, databases, and software architecture. Through personal projects and continuous learning, I am building practical experience with Spring Boot, relational databases, Docker, and modern software development practices.
+I enjoy designing clean, maintainable software and continuously improving my understanding of object-oriented programming, software architecture, testing, and backend technologies. Most of my learning happens through building projects from scratch, refactoring them, and applying professional development practices such as unit testing, continuous integration, and version control.
+
+Currently, I'm focusing on the Java ecosystem and preparing for a working student position in backend software development.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-* Java
+* Java 21
 * SQL
 * C/C++ (Academic Fundamentals)
 
-### Frameworks & Tools
+### Backend
 
 * Spring Boot
 * Spring Data JPA
 * Hibernate
-* Maven
-* Git & GitHub
+* REST APIs
+* Jakarta Validation
 
 ### Databases
 
 * PostgreSQL
 * H2
 
-### Containerization
+### Development
 
+* Maven
+* Git
+* GitHub
+* GitHub Actions
+* JUnit 5
+* JaCoCo
+
+### Tools
+
+* IntelliJ IDEA
+* Postman
 * Docker
 * Docker Compose
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### USA Presidents API
+## USA Presidents API
 
-A Spring Boot REST API for managing and analyzing historical U.S. president data.
+Spring Boot REST API for managing and analyzing historical U.S. president data.
 
-**Key topics:**
+**Highlights**
 
-* Java 21
-* Spring Boot
-* Spring Data JPA
+* Feature-based architecture
+* Spring Data JPA & Hibernate
 * PostgreSQL
 * Docker Compose
 * JPA Specifications
-* REST API Design
+* Global exception handling
+* REST API design
 
-🔗 Repository: https://github.com/franck-ted-dev/usa-presidents-api
+🔗 https://github.com/franck-ted-dev/usa-presidents-api
 
 ---
 
-### Football League Analyzer
+## Football League Analyzer
 
-A Java command-line application for processing football match data and generating league statistics.
+Java console application for processing football match data and generating league statistics.
 
-**Key topics:**
+**Highlights**
 
 * Object-Oriented Programming
-* Java Streams
-* Data Processing
-* Software Design
-* CLI Development
+* Java Streams & Collections
+* CSV processing
+* Java Records
+* Modular architecture
 
-🔗 Repository: https://github.com/franck-ted-dev/football-league-analyzer
-
----
-
-## 📚 Currently Learning
-
-* Spring Boot ecosystem
-* Database design and SQL
-* Docker and containerized development
-* Software architecture and clean code practices
+🔗 https://github.com/franck-ted-dev/football-league-analyzer
 
 ---
 
-## 📫 Contact
+## Coffee Machine Simulator
 
-📍 Hamm (Westf), Germany
+Java console application focusing on software architecture, maintainability and testability.
 
-📧 [franck.tedjou.dev@gmail.com](mailto:franck.tedjou.dev@gmail.com)
+**Highlights**
 
-🔗 GitHub: github.com/franck-ted-dev
+* Layered Architecture
+* Refactoring
+* Separation of Concerns
+* JUnit 5
+* JaCoCo
+* GitHub Actions
+* Maven
+
+🔗 https://github.com/franck-ted-dev/coffee-machine-simulator
+
+---
+
+# 📚 Currently Learning
+
+* Spring Security
+* Spring Boot best practices
+* Software architecture
+* Testing strategies
+* Docker
+* PostgreSQL
+
+---
+
+# 🎯 Current Goal
+
+I'm looking for a working student position in Java backend development where I can contribute to real-world software while continuing to grow as a software engineer.
+
+---
+
+# 📫 Contact
+
+📍 Hamm, Germany
+
+📧 [tekafradi@gmail.com](mailto:tekafradi@gmail.com)
+
+🔗 https://github.com/franck-ted-dev
