@@ -122,6 +122,6 @@ I'm looking for a working student position in Java backend development where I c
 
 📍 Hamm, Germany
 
-📧 [tekafradi@gmail.com](mailto:tekafradi@gmail.com)
+📧 [franck.tedjou.dev@gmail.com](mailto:franck.tedjou.dev@gmail.com)
 
 🔗 https://github.com/franck-ted-dev
